@@ -1,1 +1,2 @@
-System design examples from https://app.diagrams.net/
+Repo for storing designs made on https://app.diagrams.net/ (draw.io)
+
